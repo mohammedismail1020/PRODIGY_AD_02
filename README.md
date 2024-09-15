@@ -2,10 +2,10 @@
 This is a simple To-Do List application developed using Java in Android Studio. The app allows users to manage their tasks efficiently by adding, editing, and deleting to-do items. This README provides an overview of the project, setup instructions, and usage guidelines.
 
 <h2>Features</h2>
-* Item 1Add Tasks: Users can create new tasks with titles and descriptions.
-* Item 2Edit Tasks: Users can modify existing tasks.
-* Item 3Delete Tasks: Users can remove tasks from the list.
-* Item 4View Tasks: A list view displays all the tasks, allowing users to keep track of their to-do items.
+dd Tasks: Users can create new tasks with titles and descriptions.
+Edit Tasks: Users can modify existing tasks.
+Delete Tasks: Users can remove tasks from the list.
+View Tasks: A list view displays all the tasks, allowing users to keep track of their to-do items.
 <h2>Prerequisites</h2>
 Android Studio: Download and install Android Studio.
 JDK: Ensure you have JDK 8 or later installed.
